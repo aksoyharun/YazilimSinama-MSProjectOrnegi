@@ -1,7 +1,7 @@
 <?php 
 $host="localhost";
-$user="u979273483_haba";
-$pw="harun3295";
+$user="root";
+$pw="";
 $database="u979273483_odev";
 
 $baglanti=mysqli_connect($host,$user,$pw,$database);
